@@ -1,0 +1,2 @@
+# emuladorr
+ragnarok
